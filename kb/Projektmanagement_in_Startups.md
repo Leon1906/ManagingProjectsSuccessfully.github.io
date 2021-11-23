@@ -1,11 +1,11 @@
 ---
 title: Projektmanagement_in_Startups
-tags: agil klassisch
+tags: agil klassisch lean startup design thinking
 author: Leon1906
-anrechnung: k oder a
+anrechnung: k 
 ---
 
-Kurzbeschreibung zu Projektmanagement_in_Startups um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+Start-Ups sind junge Unternehmen, die innovativ, flexibel und modern sind. Getrieben von einer Geschäftsidee versuchen die Gründer und Ihre Mitarbeiter das hohe Wachstumspotenzial bestmöglich abzurufen. Häufig agieren die Start-Ups in einem "New Market" oder beschäftigen sich mit einer disruptiven Technologie. Aber welche Ausprägungen des Projektmanagements finden hier Ihre Anwendung? Im Folgenden schauen wir uns eine Gegenüberstellung von Klassischem und Agilem Projektmanagement an und wann Start-Ups welche Methoden anwenden können und sollten.
 
 Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
 oben im Front-Matter (Bereich zwischen den `---`).
