@@ -1,104 +1,41 @@
 ---
 title: Product_Owner
-tags: agil klassisch
+tags: agil product owner
 author: Leon1906
-anrechnung: k oder a
+anrechnung: a
 ---
 
-Kurzbeschreibung zu Product_Owner um ein erstes Verständnis dafür zu schaffen um was es hier geht.
+[^1] Der Product Owner füllt eine entscheidende Rolle im Projektmanagement aus - er ist der Produkteigentümer. Während des Scrum-Prozesses kümmert sich dieser um die Wertsteigerung des Produkts und die Teamleitung. Aufgrund der vielfältigen Aufgaben eines Product Owners und der wichtigen Rolle, die er bei der Scrum-Methode spielt, beschäftigen wir uns im Folgenden näher mit dessen Rolle im Team.
 
-Hier ganz am Anfang keine Überschrift einfügen - das passiert automatisch basierend auf dem `title`-Attribut
-oben im Front-Matter (Bereich zwischen den `---`).
-
-# Hier ein Beispieltext mit ein paar Verlinkungen
-
-Hier wurde beispielhaft auf externe Seiten verlinkt. Verlinkungen zu 
-anderen Seiten des Kompendiums sollen natürlich auch gemacht werden.
-
-Literatur kann via Fußnoten angegeben werden[^1]. Es gibt auch das PMBOK[^2].
-Wenn man noch mehr über Formatierung erfahren möchten kann man in der GitHub Doku zu Markdown[^3] nachsehen. 
-Und wenn man es ganz genau wissen will gibt es noch mehr Doku[^4]. 
-
-Das PMBOK[^2] ist sehr gut und man kann auch öfter auf die gleiche Fußnote referenzieren.
-
-Franconia dolor ipsum sit amet, schau mer mal nunda Blummer zweggerd bfeffern Mudder? 
-Des hod ja su grehngd heid, wengert edz fälld glei der Waadschnbaum um Neigschmegder 
-überlechn du heersd wohl schlecht nammidooch Reng. Hulzkaschber i hob denkt ooschnulln 
-Omd [Dunnerwedder](https://de.wiktionary.org/wiki/Donnerwetter) badscherdnass a weng weng? 
-Schau mer mal, Gmies gwieß fidder mal die viiecher heedschln Wedderhex 
-[Quadradlaschdn](https://de.wiktionary.org/wiki/Quadratlatschen) des hod ja su grehngd heid. 
-Scheiferla Nemberch nä Bledzla Affnhidz. Briggn, nodwendich duusln Allmächd, hod der an 
-Gniedlaskubf daneem. 
-
-Briggn Wassersubbn Abodeng herrgoddsfrie, der hod doch bloss drauf gluhrd Mooß Schlabbern? 
-Fiesl mal ned dran rum Gläis edz heid nämmer? Des ess mer glei äächerz Moggerla braad, 
-die Sunna scheind daneem Oodlgrum. Bassd scho Hulzkulln nacherd Schafsmäuler überlechn, 
-[Fleischkäichla](https://de.wiktionary.org/wiki/Frikadelle) mit Schdobfer Aungdeggl. 
-Affnhidz Oamasn, dem machsd a Freid Schdrom heid nämmer! 
+![Beispielabbildung](https://th.bing.com/th/id/R.85c4fd08903ee29f7e8e62a911daab5b?rik=yx3VaL1%2fnrhV8g&riu=http%3a%2f%2f3kctgj3290vjhj0zuiaiw81c-wpengine.netdna-ssl.com%2fwp-content%2fuploads%2f2021%2f01%2fProduct-Owner.jpg&ehk=LVoAtCn7J7nk9kB7pkTxtw5q8NuDcoW2eiSXRkrPCiA%3d&risl=&pid=ImgRaw&r=0)
 
 
-# Aspekt 1
+# Aufgaben eines Product Owners
 
-Aspekte zu Themen können ganz unterschiedlich sein:
+## Interessensvertretung der Kunden
 
-* Verschiedene Teile eines Themas 
-* Historische Entwicklung
-* Kritik 
+[^2] Die Rolle des Product Owners kann auch vom Kunden selbst übernommen werden. Dabei stellt auch die ständige Kommunikation mit allen relevanten Stakeholdern eine wichtige Aufgabe dar.
 
-![Beispielabbildung](Product_Owner/test-file.jpg)
+## Zusammenarbeit mit Entwicklungsteam und Scrum Master
 
-*lustiges Testbild*
+Der Product Owner gibt Vorgaben an die Entwickler weiter, die im Anschluss die Umsetzung in eigenem Ermessen bestimmen können. Wichtig zu verstehen ist also, dass das Developer Team unabhängig arbeitet und der Produkteigentümer kein Teil von diesem ist. Jedoch sorgt er durch seine Leitlinien maßgeblich für das stetige Vorankommen und die Weiterentwicklung des Produktes.
 
-# Aspekt 2
+## Product Backlog
 
-* das
-* hier 
-* ist
-* eine 
-* Punkteliste
-  - mit unterpunkt
+Der Produkteigentümer erstellt den Product Backlog und legt die Abfolge der Item-Bearbeitung und deren genaue Beschreibung (ein wichtiges Stichwort ist dabei das "User Story" - Format) fest. Die Liste ist priorisiert nach Wichtigkeit und Bedeutung für das Endresultat. 
 
-## Hier eine Ebene-2-Überschrift unter Aspekt 2
+## Laufende Überwachung der Entwicklung
 
-So kann man eine Tabelle erstellen:
+Ständige Rückmeldungen sind ein wichtiger Erfolgsfaktor eines Projektes. Aus diesem Grund terminiert der Product Owner nach jedem Sprint (Projektabschnitt) ein sogenanntes Review Meeting mit den wichtigsten Interessensgruppen.
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+## Entwicklung einer Endprodukt-Vision
 
-## Hier gleich noch eine Ebene-2-Überschrift :-)
+Neben allen anderen anfallenden Aufgaben muss der Product Owner stets alle Ereignisse am Markt im Auge behalten. Auf eventuelle Veränderungen muss in Absprache mit dem Scrum-Team in sogenannten Sprint Plannings reagiert werden.
 
-Wenn man hier noch ein bisschen untergliedern will kann man noch eine Ebene einfügen.
+![Beispielabbildung](https://sqiq.nl/wp-content/uploads/2018/04/productowner.gif)
 
-### Ebene-3-Überschrift
-
-Vorsicht: nicht zu tief verschachteln. Faustregel: Wenn man mehr als 3 
-Ebenen benötigt, dann passt meist was mit dem Aufbau nicht.
-
-# Aspekt n
-
-1. das
-2. hier 
-4. ist 
-4. eine
-7. nummerierte liste
-   1. und hier eine Ebene tiefer
-
-
-# Siehe auch
-
-* Verlinkungen zu angrenzenden Themen
-* [Link auf diese Seite](Product_Owner.md)
-
-# Weiterführende Literatur
-
-* Weiterfuehrende Literatur zum Thema z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ...
 
 # Quellen
 
-[^1]: Quellen die ihr im Text verwendet habt z.B. Bücher, Webseiten, Blogs, Videos, Wissenschaftliche Literatur, ... (eine Quelle in eine Zeile, keine Zeilenumbrüche machen)
-[^2]: [A Guide to the Project Management Body of Knowledge (PMBOK® Guide)](https://www.pmi.org/pmbok-guide-standards/foundational/PMBOK)
-[^3]: [Basic Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[^4]: [Advanced Formatting Syntax for GitHub flavored Markdown](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
-
+[^1]: https://de.ryte.com/wiki/Product_Owner
+[^2] https://agilescrumgroup.de/product-owner-aufgaben/
